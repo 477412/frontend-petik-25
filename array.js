@@ -42,3 +42,7 @@ console.log(foundItems);
 
 //
 console.log(combine.includes("Singa"));
+
+// const bio = (nama, umur) => `${nama} adalah umur ${umur}`
+  
+// console.log(bio('amar',21));
